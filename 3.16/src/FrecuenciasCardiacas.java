@@ -1,10 +1,6 @@
 /**
  * Modelo para calcular frecuencia cardiaca máxima y rango esperado de una persona.
  *
- * Supuestos y restricciones:
- * - La edad se calcula usando únicamente el año 2025 (no se consulta la fecha del sistema).
- * - No se usan estructuras 'while', ni bloques try/catch, ni APIs de java.time.
- * - No se valida la consistencia de la fecha; si el año es inválido (<=0 o >2025) la edad es 0.
  *
  * Fórmulas (AHA):
  * - Frecuencia cardiaca máxima: 220 - edad.
