@@ -36,9 +36,6 @@
  * Entradas: nombre, apellido, día, mes y año de nacimiento ingresados por teclado.
  * Salidas: resumen por consola y ventana informativa (JOptionPane) con FC máxima y rango.
  *
- * Restricciones del proyecto:
- * - No usar 'while', ni 'try/catch', ni APIs de java.time.
- * - La edad se calcula solo con el año 2025 (no la fecha actual del sistema).
  */
 import javax.swing.*;
 import java.util.Scanner;
