@@ -1,7 +1,5 @@
 /**
  * Modelo para calcular frecuencia cardiaca máxima y rango esperado de una persona.
- *
- *
  * Fórmulas (AHA):
  * - Frecuencia cardiaca máxima: 220 - edad.
  * - Rango esperado: 50% a 85% de la frecuencia máxima.
